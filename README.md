@@ -26,7 +26,7 @@ I learn everyday about how to use the technology in the best way and I feel very
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riteshsingh422&show_icons=true&theme=radical )
 
-
+[![My Skills](https://skills.thijs.gg/icons?i=java,html,css,js,react,nextjs&theme=light)](https://skills.thijs.gg)
 
 <div align="center">
 

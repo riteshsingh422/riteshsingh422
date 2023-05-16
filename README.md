@@ -22,6 +22,8 @@ I learn everyday about how to use the technology in the best way and I feel very
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 <br />
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your_github_username&show_icons=true&theme=theme_name)
+
 
 <div align="center">
 

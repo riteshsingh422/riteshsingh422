@@ -35,10 +35,6 @@ I learn everyday about how to use the technology in the best way and I feel very
 
 </div>
 
-<br >
-
-<br >
-
 
 
 <div align="center">

@@ -58,7 +58,7 @@ I learn everyday about how to use the technology in the best way and I feel very
 
 <img  src="https://github-readme-stats.vercel.app/api?username=Subhampreet&show_icons=true&theme=radical" width="45%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=Subhampreet&theme=dark" width="45%" >
+
 
 <br>
 

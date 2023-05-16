@@ -14,7 +14,7 @@ I learn everyday about how to use the technology in the best way and I feel very
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Bangalore-3c9)
 
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
 
 - 🌱 I’m currently learning C++ with Data Structure And Algorithm.
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/its_me_rits0.0/) 
@@ -24,7 +24,9 @@ I learn everyday about how to use the technology in the best way and I feel very
 
 ## 🏆 Github Status
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riteshsingh422&show_icons=true&theme=radical )
+<img  src="https://github-readme-stats.vercel.app/api?username=riteshsingh422&show_icons=true&theme=radical" width="45%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=riteshsingh422t&theme=dark" width="45%" >
 
 ## 👨‍💻 Languages and Tools
 

@@ -22,8 +22,14 @@ I learn everyday about how to use the technology in the best way and I feel very
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
 <br />
 
+## 🏆 Github Status
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riteshsingh422&show_icons=true&theme=radical)
 
+
+<img  src="https://github-readme-stats.vercel.app/api?username=riteshsingh422t&show_icons=true&theme=radical" width="45%" align="right" >
+
+</br>
 
 <div align="center">
 

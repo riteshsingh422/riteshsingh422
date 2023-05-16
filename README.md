@@ -24,9 +24,8 @@ I learn everyday about how to use the technology in the best way and I feel very
 
 ## 🏆 Github Status
 
-<img  src="https://github-readme-stats.vercel.app/api?username=riteshsingh422&show_icons=true&theme=radical" width="45%" align="right" >
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ritehsingh422&show_icons=true&theme=radical)
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=riteshsingh422t&theme=dark" width="45%" >
 
 ## 👨‍💻 Languages and Tools
 

@@ -16,7 +16,7 @@ I learn everyday about how to use the technology in the best way and I feel very
 
 
 
-- 🌱 I’m currently learning C++ with Data Structure And Algorithm.
+- 🌱 I’m currently learning JAVA with Data Structure And Algorithm.
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/its_me_rits0.0/) 
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Jack of all trades , Master of None ! 

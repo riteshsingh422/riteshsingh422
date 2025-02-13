@@ -4,6 +4,8 @@
 <h1 align="center"> नमस्ते (Namaste), I'm Ritesh Singh 🦊 ! </h1>
 
 <h3 align="center">I'm a Software and Web Developer from India ❤</h3>
+<img align="right" width="400" alt="raja mondal coding" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+
   
 A 22Y/O Software🌈 developer🎯 from India. I'm passionate about Software Development.I know that facing many technical problems can broaden our technical knowledge.
 I learn everyday about how to use the technology in the best way and I feel very satisfied while doing our work.

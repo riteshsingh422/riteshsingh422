@@ -26,9 +26,6 @@ I learn everyday about how to use the technology in the best way and I feel very
 
 ## 🏆 Github Status
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajamondal99&label=Profile%20views&color=0e75b6&style=flat" alt="rajamondal99" /> </p>
-
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=riteshsingh422&show_icons=true&theme=radical)
 
 

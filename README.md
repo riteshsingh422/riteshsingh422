@@ -29,14 +29,10 @@ I learn everyday about how to use the technology in the best way and I feel very
 
 ## 👨‍💻 Languages and Tools
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajamondal99&show_icons=true&locale=en&layout=compact" alt="rajamondal99" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajamondal99&show_icons=true&locale=en" alt="rajamondal99" /></p>
+<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17088877/raja-mondal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/17088877/raja-mondal" height="30" width="40" /></a>
 
 
 <div align="center">
-
-<!-- [![@subhampreet's Holopin board](https://holopin.io/api/user/board?user=subhampreet)](https://holopin.io/@subhampreet) -->
 
 <img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" >
   

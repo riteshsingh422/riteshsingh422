@@ -31,6 +31,9 @@ I learn everyday about how to use the technology in the best way and I feel very
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajamondal99&show_icons=true&locale=en&layout=compact" alt="rajamondal99" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajamondal99&show_icons=true&locale=en" alt="rajamondal99" /></p>
+
+
 <div align="center">
 
 <!-- [![@subhampreet's Holopin board](https://holopin.io/api/user/board?user=subhampreet)](https://holopin.io/@subhampreet) -->

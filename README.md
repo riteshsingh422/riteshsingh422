@@ -29,7 +29,7 @@ I learn everyday about how to use the technology in the best way and I feel very
 
 ## 👨‍💻 Languages and Tools
 
-[![My Skills](https://skills.thijs.gg/icons?i=java,html,css,js,react,nextjs,tailwind&theme=light)](https://skills.thijs.gg)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajamondal99&show_icons=true&locale=en&layout=compact" alt="rajamondal99" /></p>
 
 <div align="center">
 

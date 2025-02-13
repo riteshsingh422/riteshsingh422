@@ -4,7 +4,7 @@
 <h1 align="center"> नमस्ते (Namaste), I'm Ritesh Singh 🦊 ! </h1>
 
 <h3 align="center">I'm a Software and Web Developer from India 🇮🇳</h3>
-<img align="right" width="400" alt="raja mondal coding" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riteshsingh422&label=Profile%20views&color=0e75b6&style=flat" alt="imraja594" /> </p>
 <img align="right" width="400" alt="ritesh singh coding" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
   

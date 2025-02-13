@@ -46,6 +46,4 @@ I learn everyday about how to use the technology in the best way and I feel very
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge">](https://updatedritsportfolioweb.netlify.app/)
 
 
-<a href="https://dev.to/subhampreet"><img height="50" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg"></a>
-
 </div>

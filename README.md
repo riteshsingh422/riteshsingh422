@@ -5,6 +5,7 @@
 
 <h3 align="center">I'm a Software and Web Developer from India 🇮🇳</h3>
 <img align="right" width="400" alt="raja mondal coding" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+<img align="right" width="400" alt="ritesh singh coding" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
 
   
 A 22Y/O Software🌈 developer🎯 from India. I'm passionate about Software Development.I know that facing many technical problems can broaden our technical knowledge.
